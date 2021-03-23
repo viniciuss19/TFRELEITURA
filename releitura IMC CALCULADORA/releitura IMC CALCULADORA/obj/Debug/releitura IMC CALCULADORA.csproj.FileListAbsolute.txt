@@ -1,0 +1,10 @@
+C:\Users\Usuario\Senai vinícius\TFRELEITURA\releitura IMC CALCULADORA\releitura IMC CALCULADORA\bin\Debug\releitura IMC CALCULADORA.exe.config
+C:\Users\Usuario\Senai vinícius\TFRELEITURA\releitura IMC CALCULADORA\releitura IMC CALCULADORA\bin\Debug\releitura IMC CALCULADORA.exe
+C:\Users\Usuario\Senai vinícius\TFRELEITURA\releitura IMC CALCULADORA\releitura IMC CALCULADORA\bin\Debug\releitura IMC CALCULADORA.pdb
+C:\Users\Usuario\Senai vinícius\TFRELEITURA\releitura IMC CALCULADORA\releitura IMC CALCULADORA\obj\Debug\releitura IMC CALCULADORA.csprojAssemblyReference.cache
+C:\Users\Usuario\Senai vinícius\TFRELEITURA\releitura IMC CALCULADORA\releitura IMC CALCULADORA\obj\Debug\releitura_IMC_CALCULADORA.Form1.resources
+C:\Users\Usuario\Senai vinícius\TFRELEITURA\releitura IMC CALCULADORA\releitura IMC CALCULADORA\obj\Debug\releitura_IMC_CALCULADORA.Properties.Resources.resources
+C:\Users\Usuario\Senai vinícius\TFRELEITURA\releitura IMC CALCULADORA\releitura IMC CALCULADORA\obj\Debug\releitura IMC CALCULADORA.csproj.GenerateResource.cache
+C:\Users\Usuario\Senai vinícius\TFRELEITURA\releitura IMC CALCULADORA\releitura IMC CALCULADORA\obj\Debug\releitura IMC CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Senai vinícius\TFRELEITURA\releitura IMC CALCULADORA\releitura IMC CALCULADORA\obj\Debug\releitura IMC CALCULADORA.exe
+C:\Users\Usuario\Senai vinícius\TFRELEITURA\releitura IMC CALCULADORA\releitura IMC CALCULADORA\obj\Debug\releitura IMC CALCULADORA.pdb
